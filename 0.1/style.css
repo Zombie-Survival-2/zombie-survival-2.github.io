@@ -1,0 +1,42 @@
+.container-fluid {
+	padding: 15px;
+}
+
+img {
+	margin-bottom: 16px;
+}
+
+.zs2-logo {
+	display: block;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+p, ul, th, td, .btn {
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	letter-spacing: -2px;
+	line-height: 0.95;
+}
+
+.zs2-body {
+	background-color: #FC7215;
+	box-shadow: 3px -8px 5px rgba(0, 0, 0, 0.5) inset, -3px 8px 5px white inset;
+	border: 3px solid black;
+	border-radius: 35px;
+	padding: 20px;
+	padding-bottom: 4px;
+}
+
+footer hr {
+	border-top: 1px solid black;
+}
+
+footer p {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	text-align: right;
+	letter-spacing: 0px;
+}
