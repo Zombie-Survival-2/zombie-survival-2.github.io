@@ -17,21 +17,19 @@ img {
 p, ul, th, td, .btn {
 	font-family: Arial, sans-serif;
 	font-size: 30px;
-	letter-spacing: -2px;
 	line-height: 0.95;
 }
 
 .zs2-body {
-	background-color: #FC7215;
-	box-shadow: 3px -8px 5px rgba(0, 0, 0, 0.5) inset, -3px 8px 5px white inset;
-	border: 3px solid black;
-	border-radius: 35px;
+	background-color: black;
+	border: 2px solid #AA1111;
+	color: white;
 	padding: 20px;
 	padding-bottom: 4px;
 }
 
 footer hr {
-	border-top: 1px solid black;
+	border-top: 1px solid #888888;
 }
 
 footer p {
