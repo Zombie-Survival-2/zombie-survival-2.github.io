@@ -11,14 +11,13 @@ body {
 }
 
 img {
+	display: block;
 	margin-bottom: 16px;
 }
 
 .zs2-logo {
-	display: block;
 	height: auto;
-	margin-left: auto;
-	margin-right: auto;
+	margin: -16px auto -8px auto;
 	width: 100%;
 }
 
@@ -26,6 +25,10 @@ p, ul, th, td, .btn {
 	font-family: Arial, sans-serif;
 	font-size: 18px;
 	line-height: 0.95;
+}
+
+span {
+	color: #009900;
 }
 
 .table td, .table th {
@@ -89,8 +92,6 @@ footer p {
 }
 
 .zs2-emblem {
-	margin-top: 16px;
-	margin-bottom: 0px;
-	text-align: center;
-	width: 100px;
+	margin: 8px auto -8px auto;
+	width: 72px;
 }
