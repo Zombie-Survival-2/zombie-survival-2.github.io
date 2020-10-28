@@ -63,7 +63,7 @@ span {
 }
 
 .zs2-topbar table .selected, .zs2-topbar table .selected .btn:hover {
-	background-color: #AA1111;
+	background-color: #AA1111 !important;
 	color: white !important;
 }
 
