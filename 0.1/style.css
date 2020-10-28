@@ -28,6 +28,43 @@ p, ul, th, td, .btn {
 	line-height: 0.95;
 }
 
+.table td, .table th {
+	border: none !important;
+}
+
+.zs2-topbar table {
+	border: 2px solid #AA1111;
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+
+.zs2-topbar table th {
+	padding: 0px;
+}
+
+.zs2-topbar table .btn {
+	background-color: black;
+	color: #888888;
+	padding: 0px;
+	width: 100%;
+	font-size: 30px;
+}
+
+.zs2-topbar table .btn:hover {
+	background-color: #888888;
+	color: white;
+}
+
+.zs2-topbar table .selected {
+	background-color: #AA1111;
+	color: white;
+}
+
+.zs2-topbar table .btn span {
+	display: inline-block;
+	transform: scale(1, 0.75);
+}
+
 .zs2-body {
 	background-color: black;
 	border: 2px solid #AA1111;
