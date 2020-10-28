@@ -36,6 +36,7 @@ p, ul, th, td, .btn {
 	border: 2px solid #AA1111;
 	border-bottom: none;
 	margin-bottom: 0px;
+	width: 100%;
 }
 
 .zs2-topbar table th {
@@ -55,9 +56,9 @@ p, ul, th, td, .btn {
 	color: white;
 }
 
-.zs2-topbar table .selected {
+.zs2-topbar table .selected, .zs2-topbar table .selected .btn:hover {
 	background-color: #AA1111;
-	color: white;
+	color: white !important;
 }
 
 .zs2-topbar table .btn span {
