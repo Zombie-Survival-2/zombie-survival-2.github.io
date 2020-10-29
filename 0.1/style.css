@@ -89,8 +89,8 @@ span {
 	vertical-align: middle;
 }
 
-.zs2-body table img {
-	width: 72px;
+.zs2-body table tr .picture {
+	width: 100px;
 	margin-bottom: 0px;
 }
 
