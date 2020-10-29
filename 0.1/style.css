@@ -89,12 +89,13 @@ span {
 	color: white;
 }
 
-.zs2-body table tr td {
-	margin-bottom: -16px;
+.zs2-body table tr .picture, .zs2-body table tr .picture img {
+	margin-bottom: 0px;
+	width: 100px;
 }
 
-.zs2-body table tr .picture, .zs2-body table tr .picture img {
-	width: 100px;
+.zs2-body table tr td p {
+	margin-bottom: 0px;
 }
 
 footer hr {
