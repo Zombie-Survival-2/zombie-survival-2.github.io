@@ -80,6 +80,27 @@ span {
 	padding-bottom: 4px;
 }
 
+.zs2-body table {
+	background-color: #101010;
+}
+
+.zs2-body table td {
+	vertical-align: middle;
+}
+
+.zs2-body table img {
+	width: 72px;
+	height: 72px;
+	margin-bottom: 0px;
+}
+
+.zs2-body table .name {
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	padding-right: 0px;
+}
+
 footer hr {
 	border-top: 1px solid #888888;
 }
