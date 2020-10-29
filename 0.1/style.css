@@ -23,7 +23,7 @@ img {
 
 h1, h2, h3 {
 	font-family: Arial, sans-serif;
-	font-weight: bold;
+	font-weight: bold !important;
 }
 
 p, ul, th, td, .btn {
@@ -89,9 +89,12 @@ span {
 	color: white;
 }
 
+.zs2-body table tr {
+	margin-bottom: -16px;
+}
+
 .zs2-body table tr .picture, .zs2-body table tr .picture img {
 	width: 100px;
-	margin-bottom: 0px;
 }
 
 footer hr {
